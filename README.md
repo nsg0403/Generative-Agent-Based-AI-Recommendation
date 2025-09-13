@@ -3,10 +3,6 @@
 
 <h1>On Generative Agents in Recommendation</h1>
 
-<img src="https://img.shields.io/badge/License-MIT-blue" alt="license">
-
-![world](assets/sandbox.png)
-
 Agent4Rec, a recommender system simulator with 1,000 LLM-empowered generative agents. These agents are initialized from the [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/) dataset, embodying varied social traits and preferences. Each agent interacts with personalized movie recommendations in a page-by-page manner and undertakes various actions such as watching, rating, evaluating, exiting, and interviewing. With Agent4Rec, we would like to explore the potential of LLM-empowered generative agents in simulating the behavior of genuine, independent humans in recommendation environments. 
 
 
