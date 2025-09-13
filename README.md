@@ -12,9 +12,6 @@ Agent4Rec, a recommender system simulator with 1,000 LLM-empowered generative ag
 <p id="Catalogue"></p>  
 
 ## 📋 Catalogue 
-<div>
-<img src="assets/agent4rec.png" height=40">
-</div>
 
 - [Catalogue](#Catalogue)
 - [Preparations](#Preparations)
